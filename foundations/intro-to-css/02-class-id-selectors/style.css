@@ -1,0 +1,19 @@
+.odd-p {
+    background-color: #eaa9ea;
+    font-family:Verdana, "DejaVu Sans", sans-serif;
+}
+
+.odd-p.p3 {
+    font-size: 24px;
+}
+
+#id2 {
+    color: rgb(0, 0, 255);
+    font-size: 36px;
+}
+
+#id4 {
+    background-color:rgb(46, 235, 122);
+    font-size: 24px;
+    font-weight: bold;
+}
